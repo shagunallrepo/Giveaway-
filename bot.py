@@ -40,7 +40,7 @@ from aiogram.enums import ChatMemberStatus
 from aiogram.exceptions import TelegramBadRequest
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8973288899:AAF-u_jfcu8wfGUYOe4oIyfDmIlr3ChWrQM"   # get from @BotFather
+BOT_TOKEN = "8973288899:AAFvr6VXb9t1-lcaJWv-0_RViNs9zFt2Zow"   # get from @BotFather
 ADMIN_IDS = [8913693655]                        # your Telegram user ID(s)
 BOT_USERNAME = "PrinceXgiveawaybot"             # without @
 ADMIN_USERNAME = "@PrinceXDaemon"         # shown on name-review appeals
